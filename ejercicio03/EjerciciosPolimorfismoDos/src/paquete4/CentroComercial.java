@@ -24,7 +24,7 @@ public class CentroComercial {
         arriendos = lista;
     }
 
-    public void establecerNomre(String n) {
+    public void establecerNombre(String n) {
         nombre = n;
     }
 
